@@ -1,0 +1,34 @@
+_repo: The-White-Mail_71261
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warman, Cy
+    birthdate: 1855
+    deathdate: 1914
+    gutenberg_agent_id: '7464'
+    url: http://www.gutenberg.org/2009/agents/7464
+    wikipedia: https://en.wikipedia.org/wiki/Cy_Warman
+description: ''
+gutenberg_issued: '2023-07-23'
+identifiers:
+  gutenberg: '71261'
+  lccn: '99004130'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t1gh9c791&view=1up&seq=17
+pgterms:marc905: 20230422113248warman
+pgterms:marc906: '1899'
+pgterms:marc907: us
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library
+  and University of California.)
+publication_note: '  $aUnited States :$bCharles Scribner''s Sons, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Railroad stories'
+- !lcc 'PS'
+- GITenberg
+title: The White Mail
+url: http://www.gutenberg.org/ebooks/71261
