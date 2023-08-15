@@ -1,5 +1,8 @@
 _repo: The-White-Mail_71261
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71261-h/images/cover.jpg
 creator:
   author:
     agent_name: Warman, Cy
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7464
     wikipedia: https://en.wikipedia.org/wiki/Cy_Warman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71261#The-White-Mail
 gutenberg_issued: '2023-07-23'
 identifiers:
   gutenberg: '71261'
